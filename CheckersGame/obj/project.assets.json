@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\CheckersGame\\CheckersGame\\CheckersGame.csproj",
+      "projectUniqueName": "C:\\Практика___Код\\CheckersGame\\CheckersGame\\CheckersGame.csproj",
       "projectName": "CheckersGame",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\CheckersGame\\CheckersGame\\CheckersGame.csproj",
+      "projectPath": "C:\\Практика___Код\\CheckersGame\\CheckersGame\\CheckersGame.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\CheckersGame\\CheckersGame\\obj\\",
+      "outputPath": "C:\\Практика___Код\\CheckersGame\\CheckersGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
